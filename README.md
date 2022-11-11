@@ -7,6 +7,7 @@ Repton 2 Expansion - for the Acorn Electron
 [Download Tape Image version 0.5 !](https://github.com/Snuggsy187/Electron-Repton-2-Expansion/raw/main/Releases/Repton2-E-v0.5.uef)
 
 Presently only tested on Elkulator v1 !!
+http://elkulator.acornelectron.co.uk/
 
 Featuring an expanded play area, per-screen counters, map....
 Plus a 'Rewind to Home Screen' feature
