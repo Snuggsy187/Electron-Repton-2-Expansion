@@ -5,6 +5,7 @@ Repton 2 Expansion - for the Acorn Electron
 [Download Disk Image version 0.5 !](https://github.com/Snuggsy187/Electron-Repton-2-Expansion/raw/main/Releases/Repton2-E-v0.5.ssd)
 
 [Download Tape Image version 0.5 !](https://github.com/Snuggsy187/Electron-Repton-2-Expansion/raw/main/Releases/Repton2-E-v0.5.uef)
+*RUN to load Repton2 from the tape image
 
 Presently only tested on Elkulator v1 !!
 http://elkulator.acornelectron.co.uk/
